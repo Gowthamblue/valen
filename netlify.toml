@@ -1,6 +1,6 @@
 # Netlify configuration for image optimization and performance
 [build]
-  command = "npm run dev"
+  command = "npm run build"
   publish = "dist"
 
 # Enable gzip and brotli compression for all assets
