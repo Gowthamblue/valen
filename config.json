@@ -47,27 +47,35 @@
   "couplePhotos": [
     {
       "image": "/assets/couple_photo/photo1.jpg",
-      "caption": "Our first special moment together"
+      "caption": "It wasn’t just a kiss, it was a memory being made"
     },
     {
       "image": "/assets/couple_photo/photo2.jpg",
-      "caption": "Cooking memories together"
+      "caption": "One quiet house, one loud heartbeat"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_3.jpg",
-      "caption": "Our favorite music moments"
+      "image": "/assets/couple_photo/photo3.jpg",
+      "caption": "More than the prayers, her gentle touch felt divine"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_4.jpg",
-      "caption": "When you made me smile like this"
+      "image": "/assets/couple_photo/photo4.jpg",
+      "caption": "The world faded away when I held her hand"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_5.jpg",
-      "caption": "Our heart-to-heart talks"
+      "image": "/assets/couple_photo/pp.jpg",
+      "caption": "The world is loud, but she feels like home"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_6.jpg",
-      "caption": "Your comforting presence"
+      "image": "/assets/couple_photo/pg.jpg",
+      "caption": "The only lesson I cared about was sitting next to her"
+    },
+    {
+      "image": "/assets/couple_photo/pp8.jpeg",
+      "caption": "If you walk in mine, I’ll gladly carry yours"
+    },
+    {
+      "image": "/assets/couple_photo/pp7.jpeg",
+      "caption": "The road ended, but the memory still rides with me"
     }
   ],
   "prosCons": [
@@ -128,7 +136,7 @@
       "id": 4,
       "title": "Dum Dum",
       "duration": "3:45",
-      "album": "Lubber Panthu",
+      "album": "",
       "artist": "",
       "cover": "/assets/album-covers/dumdum.jpeg",
       "audio": "/assets/songs/dumdum_OvrcP4oF.mp3"

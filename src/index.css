@@ -666,7 +666,7 @@ body {
 }
 
 .photos-card {
-  max-width: 900px;
+  max-width: 1000px;
   background: rgba(245, 233, 217, 0.9);
   border: 2px solid #c28f5a;
   box-shadow: 0 15px 40px rgba(194, 143, 90, 0.2);
