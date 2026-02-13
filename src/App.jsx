@@ -280,7 +280,8 @@ function App() {
               </div>
               <p className="all-gifts-text">
                 Yayyyy!! You opened all the gifts! <br />
-                LOVE YOU SO MUCH PATOOTIEE!❤️
+                LOVE YOU SO MUCH Laddu!❤️
+                Careless to the world, careful with you!
               </p>
             </div>
           ) : (
